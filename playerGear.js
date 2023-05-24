@@ -1032,7 +1032,7 @@ window.playerGear={
                 stats.instantWhiteConversion=window.applyPercentage(stats.instantWhiteConversion,0.05)
             },
             desc:'A miniature hive you can wear on your back! Instantly converts some pollen to honey.<br>+250,000 capacity<br>x2 convert rate<br>+5% instant conversion',
-            cost:['1250000 honey'],
+            cost:['1 honey'],
         },
 
         redPortOHive:{
@@ -1056,7 +1056,7 @@ window.playerGear={
                 stats.redBeeAttack+=1
             },
             desc:'A Port-O-Hive dipped in shiny red pain. Works best for red bees and red pollen.<br>+450,000 capacity<br>x2.5 convert rate<br>+10% instant red conversion<br>x1.1 red pollen<br>+1 red bee attack',
-            cost:['7500000 honey'],
+            cost:['7 honey'],
         },
 
         bluePortOHive:{
@@ -1080,7 +1080,7 @@ window.playerGear={
                 stats.blueBeeAttack+=1
             },
             desc:'A Port-O-Hive dipped in shiny blue paint. Works best for blue bees and blue pollen.<br>+450,000 capacity<br>x2.5 convert rate<br>+10% instant blue conversion<br>x1.1 blue pollen<br>+1 blue bee attack',
-            cost:['7500000 honey'],
+            cost:['7 honey'],
         },
 
         porcelainOHive:{
@@ -1296,7 +1296,7 @@ window.playerGear={
                 stats.beeSpeed*=1.1
             },
             desc:'A durable pair of boots helpful for traversing the mountain.<br><br>+5 movement collection<br>x1.1 bee speed<br>x1.125 movespeed<br>x1.3 jump power',
-            cost:['2000000 honey','20 pineapple','20 blueberry','20 strawberry'],
+            cost:['2 honey','2 pineapple','2 blueberry','2 strawberry'],
         },
     },
     
